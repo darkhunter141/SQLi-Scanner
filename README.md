@@ -1,4 +1,4 @@
-<b><h1> SQLi Vulnerability Scanner Tool For Termux</h1><b>
+<b><h1> SQLi Vulnerability Scanner Tool For Termux💥</h1><b>
 
 <h3><b>Installation : </b></h3>
 <br>
@@ -24,7 +24,7 @@ pip2 install gtts && pkg install python2 && git clone https://github.com/darkhun
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="https://raw.githubusercontent.com/darkhunter141/Virus-Lab/main/Screenshot_20210524_004336.jpg">
+<img src="https://raw.githubusercontent.com/darkhunter141/SQLi-Scanner/main/Screenshot_20210524_010545.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
