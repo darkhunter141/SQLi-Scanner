@@ -18,7 +18,7 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/SQLi-Scanner && cd SQLi-Scanner && python2 sqli
+pkg install python2 && git clone https://github.com/darkhunter141/SQLi-Scanner && cd SQLi-Scanner && python2 sqli
 
 ```
 <br>
